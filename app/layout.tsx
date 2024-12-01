@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Mehul Pathak",
-      url: "https://github.com/m3hu1",
+      url: "https://github.com/sr376",
     },
   ],
 };
