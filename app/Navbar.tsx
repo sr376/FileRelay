@@ -24,7 +24,7 @@ const Navbar = () => {
           />
           <Link href="/" className="ml-2 z-10">
             {/* z1ppie */}
-            <LettersPullUp text="z1ppie" />
+            <LettersPullUp text="FileRelay" />
           </Link>
         </div>
         <div className="flex gap-x-2 z-10">
