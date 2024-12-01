@@ -25,7 +25,7 @@ const Home = () => {
       text: "using",
     },
     {
-      text: "z1ppie.",
+      text: "FieRelay.",
       className: "underline text-blue-500 dark:text-blue-500",
     },
   ];
@@ -49,7 +49,7 @@ const Home = () => {
           <EyeCatchingButton_v1>Start sharing</EyeCatchingButton_v1>
         </Link>
         <Link
-          href={"https://github.com/m3hu1/z1ppie"}
+          href={"https://github.com/sr376/FileRelay"}
           className="flex items-center"
         >
           <EyeCatchingButton_v1>
