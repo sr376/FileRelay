@@ -1,4 +1,4 @@
-# z1ppie
+# FileRelay
 
 z1ppie is a P2P file sharing application built with Next.js, allowing users to share files quickly and efficiently. The application leverages WebRTC for real-time communication and socket.io for signaling, providing a seamless user experience.
 
